@@ -1,0 +1,1 @@
+for lp let var equal numbers semicolon var l var semicolon var increment rp lcb newline var sumeq numbers semicolon newline if lp var g numbers rp lcb newline var equal var pow numbers newline rcb newline rcb
